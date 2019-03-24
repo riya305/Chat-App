@@ -4,18 +4,18 @@ This is a chat application which has backend code in ChatApp-server written in N
 
 ## Instructions to execute
 
-## 1). To run Mongo
+### 1). To run Mongo
 mongod
 Check before mongo is installed on ur machine
 
-## 2). To run the Chat App server
+### 2). To run the Chat App server
 Go to the server directory using ->
 cd ChatApp-server
 then execute ->
 node app.js 
 Server will start running on port 3000
 
-## 3). To run the Chat App client
+### 3). To run the Chat App client
 Go to the client directory using ->
 cd ChatApp-client
 then execute ->
