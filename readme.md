@@ -5,7 +5,7 @@ This is a chat application which has backend code in ChatApp-server written in N
 ## Instructions to execute
 
 ### 1). To run Mongo
-mongod
+* mongod
 Check before mongo is installed on ur machine
 
 ### 2). To run the Chat App server
